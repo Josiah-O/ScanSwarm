@@ -117,6 +117,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Swarms Framework](https://github.com/kyegomez/swarms)
 - [Documentation](https://github.com/Josiah-O/ScanSwarm/wiki)
 - [Issue Tracker](https://github.com/Josiah-O/ScanSwarm/issues)
+- Email: buildwithjosiah@gmail.com
 
 ---
 <p align="center">
