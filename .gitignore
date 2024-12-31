@@ -27,7 +27,7 @@ env/
 env.bak/
 venv.bak/
 
-# IDE
+# IDE and Workspace
 .idea/
 .vscode/
 *.swp
@@ -35,6 +35,11 @@ venv.bak/
 .project
 .pydevproject
 .settings/
+agent_workspace/
+agent_workspace
+ScanSwarm_workspace.code-workspace
+*_workspace.code-workspace
+*_workspace/
 
 # Project specific
 analysis_screenshots/*
