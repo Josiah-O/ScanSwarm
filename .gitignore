@@ -43,11 +43,14 @@ ScanSwarm_workspace.code-workspace
 
 # Project specific
 analysis_screenshots/*
+!analysis_screenshots/.gitkeep
 analysis_results/*
+!analysis_results/.gitkeep
 .env
 ScanSwarm.md
 *.log
 patterns/*
+data/screenshots/*
 
 # OS specific
 .DS_Store
