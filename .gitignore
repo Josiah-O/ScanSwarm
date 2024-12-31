@@ -4,16 +4,46 @@ __pycache__/
 *.class
 *.so
 .Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
 venv/
 ENV/
+env/
+env.bak/
+venv.bak/
 
 # IDE
 .idea/
 .vscode/
 *.swp
 *.swo
+.project
+.pydevproject
+.settings/
 
 # Project specific
 analysis_screenshots/*
 analysis_results/*
 .env
+ScanSwarm.md
+*.log
+patterns/*
+
+# OS specific
+.DS_Store
+Thumbs.db
